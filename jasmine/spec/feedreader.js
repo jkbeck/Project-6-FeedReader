@@ -91,7 +91,7 @@ $(function() {
         beforeEach(function(done) {
             setTimeout(function() {
                 done();
-            }, 300);
+            }, 500);
         });
 
         it('should load at least one entry', function(done) {
